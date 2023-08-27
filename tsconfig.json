@@ -9,8 +9,8 @@
     "removeComments": true,
     "preserveConstEnums": true,
   },
-  "include": ["src/**/*.ts"],
-  "exclude": ["node_modules"],
+  "include": [".//**/*.ts"],
+  "exclude": ["./node_modules"],
   "typeRoots": [
     "./src/@types",
     "./node_modules/@types"
