@@ -3,7 +3,7 @@
   "info": {
     "version": "1.0.0",
     "title": "MAUAGENDAR REST API",
-    "description": ""
+    "description": "API de agendamento de compromissos, desenvolvida para projeto de EEN251-Microcontroladores e Sistemas Embarcados nela é possível se autenticar com método de autenticação Bearer Token e em seguida fazer um CRUD de compromissos de seu usuário."
   },
   "host": "",
   "basePath": "/user/",
