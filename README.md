@@ -29,7 +29,7 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 - Clone o repositório
 - Altere o arquivo .env.example para .env e preencha as variáveis de ambiente
 - Instale o docker, caso já não o tenha instalado, é possível encontrar o tutorial de instalação no site oficial do docker em : <https://docs.docker.com/engine/install/>
-- Execute o comando `docker compose up --build -d` para subir o banco de dados
+- Execute o comando `docker compose up --build -d` para subir o projeto
 - Acesse o localhost:${PORTA_DEFINIDA_NO_ENV}/api para acessar o swagger e testar as rotas
 - Altere o scheme para http caso esteja no localhost
 
