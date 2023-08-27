@@ -19,6 +19,9 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 ### Tecnologias utilizadas
 
 - NodeJS
+- Express
+- bcrypt
+- jsonwebtoken
 - Docker
 - PostgreSQL
 - Typescript
