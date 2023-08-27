@@ -40,4 +40,4 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 
 - Caso queira expor a api como servidor, instale o ngrok ou rode o ngrok com docker e em seguida, configure o token de autenticação de seu usuário no arquivo do ngrok
 - Digite no terminal: `ngrok http ${PORTA_DEFINIDA_NO_ENV}` para expor a api
-- O ngrok disponibilizará um link para sua api, mantenha o scheme como https e teste as rotas.]
+- O ngrok disponibilizará um link para sua api, mantenha o scheme como https e teste as rotas.
