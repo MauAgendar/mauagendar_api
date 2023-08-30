@@ -43,4 +43,6 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 - O ngrok disponibilizará um link para sua api, mantenha o scheme como https e teste as rotas.
 
 ### Mostrando funcionamento da aplicação
+![imagem_raspberry](https://github.com/MauAgendar/mauagendar_api/assets/81170691/cb41b90e-3769-4f21-bf1c-71878557b580)
+
 https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunhoz
