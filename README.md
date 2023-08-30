@@ -46,4 +46,15 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 ![imagem_raspberry](https://github.com/MauAgendar/mauagendar_api/assets/81170691/cb41b90e-3769-4f21-bf1c-71878557b580)
 
 https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunhoz
+
+
+
+
+
+
+
+
+
+
+
 ![Sérgião](https://github.com/MauAgendar/mauagendar_api/assets/81170691/af947245-aee8-4715-98be-ead50c2d855e)
