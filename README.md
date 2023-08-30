@@ -43,4 +43,4 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 - O ngrok disponibilizará um link para sua api, mantenha o scheme como https e teste as rotas.
 
 ### Mostrando funcionamento da aplicação
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kw0iTpgiY5Q?si=7m6xKhdnksjFBvnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunhoz
