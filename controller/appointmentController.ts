@@ -35,7 +35,21 @@ class Appointment {
             res.status(401).json({ message: "Authentication required." });
         }
     };
+    getAllAppointments = async (req: Request, res: Response) => {
+        try {
+            // SQL query to retrieve all appointments from the database
+            const query = "SELECT * FROM appointments";
+            const result = await client.query(query);
 
+            const appointments = result.rows;
+            console.log(appointments)
+            res.json(appointments);
+
+        } catch (error) {
+            console.error("Error retrieving appointments:", error);
+            res.status(500).json({ message: "Error retrieving appointments." });
+        }
+    }
     getAppointment = async (req: Request, res: Response) => {
         const { userId } = req.params;
         if (userId !== this.userId.toString()) {

@@ -4,6 +4,8 @@ const router = express.Router();
 
 const appointment = new Appointment();
 
+router.get("/", appointment.getAllAppointments);
+
 router.get(
     "/:userId/appointments",
     appointment.authenticate,
