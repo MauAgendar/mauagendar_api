@@ -48,18 +48,19 @@ O projeto foi compactado devido ao fato de que temos a intenção de subir um se
 https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunhoz
 
 ## T3
-### Funcionamento do frontend feito em react
-<br />
-<https://youtu.be/U6bmKo-6JgA>
-### Funcionamento da aplicação mobile feita em flutter
-<br />
-<https://youtu.be/U6bmKo-6JgA>
-### Funcionamento dos dashboards feitos no node-red
-<br />
-<https://youtu.be/U6bmKo-6JgA>
-### Link do repositório do front-end e da aplicação mobile
-<https://github.com/MauAgendar/mauagendar>
-<br />
+- Funcionamento do frontend feito em react
+  <br />
+  <https://youtu.be/U6bmKo-6JgA>
+- Funcionamento da aplicação mobile feita em flutter
+  <br />
+  <https://youtu.be/U6bmKo-6JgA>
+- Funcionamento dos dashboards feitos no node-red
+  <br />
+  <https://youtu.be/U6bmKo-6JgA>
+- Link do repositório do front-end e da aplicação mobile
+  <br />
+  <https://github.com/MauAgendar/mauagendar>
+  <br />
 <br />
 <br />
 <br />
