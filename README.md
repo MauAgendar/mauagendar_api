@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunho
   <https://youtu.be/U6bmKo-6JgA>
 - Funcionamento dos dashboards feitos no node-red
   <br />
-  <https://youtu.be/U6bmKo-6JgA>
+  <https://youtu.be/5aKxcOuWIOY>
 - Link do repositório do front-end e da aplicação mobile
   <br />
   <https://github.com/MauAgendar/mauagendar>
