@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=Kw0iTpgiY5Q&ab_channel=LuisGuilhermedeSouzaMunho
   <https://youtu.be/U6bmKo-6JgA>
 - Funcionamento da aplicação mobile feita em flutter
   <br />
-  <https://youtu.be/U6bmKo-6JgA>
+  <https://youtu.be/KDFFHQ3t1Bo>
 - Funcionamento dos dashboards feitos no node-red
   <br />
   <https://youtu.be/5aKxcOuWIOY>
